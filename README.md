@@ -1,6 +1,7 @@
 ### Hi there 👋
-# Nic! 
-### I am a sophmore studying Graphic Information Technology at Arizona State University. I am passionate about *creative direction*, **marketing**, and *design*. I specialize in shaping digital experiences through the seamless integration of software and design thinking.
+# I'm Nic! 
+### I am a sophmore studying Graphic Information Technology at Arizona State University. I am from San Jose and I am passionate about *creative direction*, **marketing*, and *design*. I specialize in shaping digital experiences through the seamless integration of software and design thinking.
+![Screenshot 2024-04-01 170825](https://github.com/nicgarciai/nicgarciai/assets/156730984/49d44a68-0a64-4900-a4b8-d7fa3cee1495)
 
 <!--
 **nicgarciai/nicgarciai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
