@@ -1,6 +1,5 @@
-### Hi there 👋
-# I'm Nic! 
-### I am a senior  studying Graphic Information Technology at Arizona State University. I am from San Jose and I am passionate about *creative direction*, **marketing*, and *design*. I specialize in shaping digital experiences through the seamless integration of software and design thinking.
+
+# I'm Nic
 
 
 
